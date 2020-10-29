@@ -1,0 +1,45 @@
+/* General styling */
+nav {
+    background-color: transparent;
+    /* justify-items: center; */
+    /* text-align: center; */
+}
+
+#navbar {
+    list-style-type: none;
+}
+
+a.navref:link{
+    color: black;
+    padding-right: 2px;
+    text-align: center;
+    /* display: inline-block; */
+    float: left;
+    font-size: 100%;
+    
+    margin: 10px;
+}
+
+a.navref:visited {
+    color: #000000;
+    background-color: #000000;
+    /* text-decoration: underline; */
+
+}
+
+a.navref:hover {
+    font-size: larger;
+    background-color:rgba(191, 177, 177, 0.576);
+    border: 10px;
+    border-radius: 10px;
+}
+/* index.html */
+
+body {
+    position: relative;
+    text-align: center;
+}
+/* resume.html */
+
+/* aboutme.html */
+
