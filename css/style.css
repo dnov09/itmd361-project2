@@ -85,7 +85,6 @@ a.navref:hover {
 }
 
 
-
 #aboutme {
   padding-top: 1em;
   padding-left: 5em;
@@ -115,6 +114,7 @@ a.navref:hover {
 
 .res-section {
   font-family: 'Roboto', sans-serif;
+  color: blue;
 
 }
 
