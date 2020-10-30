@@ -2,12 +2,22 @@
     and one file containing the CSS reset code you used (done)
 
 2. Apply at least five of the same style elements to each of your pages
+    a.
+    b.
+    c.
+    d.
+    e.
 
-3. Apply at least five different style elements to each of your pages. 
+3. Apply at least five different style elements to each of your pages.
+    a.
+    b.
+    c.
+    d.
+    e.
 
 4. Centered horizontal-navigation (done-ish)
 
-5. Use one imported font style and one browser native font style. 
+5. Use one imported font style and one browser native font style. (done)
 
 6. You must use relative units (em, rem, vm, %) in your CSS to make 
     your pages fluid. You may use px units to put a maximum size or within 
