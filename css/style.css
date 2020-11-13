@@ -155,6 +155,7 @@ a.navref:hover {
 }
 
 #me-heading {
+  padding-left: 24px;
   font-family: 'Dancing Script',
     cursive;
   font-size: 64px;
