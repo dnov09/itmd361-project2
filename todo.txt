@@ -19,12 +19,12 @@
 Final turn in
 --------------
     1. Set a height for ul around the nave so that the font height isn't determining the height.
-        That way your different fonts won't bounce the height of the nav. 
+        That way your different fonts won't bounce the height of the nav. (done)
 
     2. Remove the underline from your navigation (text-decoration). 
 
     3. You need to link your CSS reset file to your html files the same way you linked your own CSS file in the head. (done)
 
     4. Change all special characters to utf-8 code
-    
+
     5. Add some <section>s to your html. 

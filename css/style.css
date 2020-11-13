@@ -36,13 +36,8 @@ body {
   padding: 10px;
 }
 
-/* #navbar ul {
-  height: ;
-} */
-
-#navcontainer{
-  height: 20px;
-  position: relative;
+nav ul {
+  height: 64px;
 }
 
 a.navref:link {
@@ -62,6 +57,7 @@ a.navref:visited {
 a.navref:hover {
   font-family: 'Dancing Script', cursive;
   color: rgb(192, 87, 12);
+  
   text-decoration: none;
 }
 
