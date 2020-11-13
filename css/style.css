@@ -150,7 +150,6 @@ a.navref:hover {
 /* aboutme.html */
 #me-body {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  padding: 5%;
   background: rgb(174, 238, 229);
   background: radial-gradient(circle, rgba(174, 238, 229, 1) 0%, rgba(148, 187, 233, 1) 100%);
 }
@@ -176,6 +175,12 @@ a.navref:hover {
 
   border: 1px solid rgb(255, 255, 255);
   border-radius: 4px;
+}
+
+#likes-sec, #hob-sec {
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-bottom: 16px;
 }
 
 #likes {

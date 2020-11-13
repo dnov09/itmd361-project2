@@ -27,4 +27,4 @@ Final turn in
 
     4. Change all special characters to utf-8 code
 
-    5. Add some <section>s to your html. 
+    5. Add some <section>s to your html. (done)
