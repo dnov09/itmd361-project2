@@ -57,7 +57,7 @@ a.navref:visited {
 a.navref:hover {
   font-family: 'Dancing Script', cursive;
   color: rgb(192, 87, 12);
-  
+
   text-decoration: none;
 }
 
@@ -96,7 +96,6 @@ a.navref:hover {
 /* resume.html */
 #res-body {
   position: relative;
-  padding: 24px;
   background-color: aliceblue;
 }
 
@@ -104,8 +103,16 @@ a.navref:hover {
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
   color: rgb(101, 46, 252);
-
 }
+
+#name-email,
+#education,
+#experience,
+#skills,
+#honors {
+  padding-left: 24px;
+}
+
 
 .company {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
