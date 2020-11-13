@@ -11,8 +11,6 @@ img {
 
 nav {
   background-color: transparent;
-  /* justify-items: center; */
-  /* text-align: center; */
 }
 
 body {
@@ -20,22 +18,31 @@ body {
 }
 
 #navbar {
+  margin: 0;
+  padding: 0;
   justify-content: space-evenly;
-  border:1px solid #ccc;
-  border-width:1px 0;
-  list-style:none;
-  margin:0;
-  padding:0;
-  text-align:center;
+  border: 1px solid #ccc;
+  border-width: 1px 0;
+  list-style: none;
+  text-align: center;
 }
 
-#navbar li{
+#navbar li {
   display: inline;
 }
 
-#navbar a{
-  display: inline-block;
+#navbar a {
+  text-decoration: none;
   padding: 10px;
+}
+
+/* #navbar ul {
+  height: ;
+} */
+
+#navcontainer{
+  height: 20px;
+  position: relative;
 }
 
 a.navref:link {
@@ -43,7 +50,6 @@ a.navref:link {
   padding-right: 2px;
   text-align: center;
   display: inline-block;
-  /* float: left; */
   font-size: 100%;
   margin: 10px;
 }
@@ -54,11 +60,9 @@ a.navref:visited {
 }
 
 a.navref:hover {
-  font-size: larger;
   font-family: 'Dancing Script', cursive;
   color: rgb(192, 87, 12);
-  border: 10px;
-  border-radius: 10px;
+  text-decoration: none;
 }
 
 /* index.html */
@@ -95,6 +99,7 @@ a.navref:hover {
 
 /* resume.html */
 #res-body {
+  position: relative;
   padding: 24px;
   background-color: aliceblue;
 }
@@ -180,7 +185,7 @@ a.navref:hover {
   border-radius: 6em;
 }
 
-#stonks{
+#stonks {
   border-radius: 6em;
   border: 1px solid #ddd;
   border-radius: 4px;
